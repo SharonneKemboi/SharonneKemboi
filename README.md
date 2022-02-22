@@ -4,7 +4,7 @@
   <img src="https://media1.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif?cid=ecf05e4779iar1zprdn9x5enc53j3d9cort9qs30gajx67er&rid=giphy.gif&ct=s" width="300"/>
 </div>
 
-An Upcoming full stack web developer . I love to learn and mentor others. 
+I'm an Upcoming full stack web developer . I love to learn and mentor others. 
 I have an immense knowledge in data analytics ,Use of Power Bi and other analytics tools
 I'm currently learning Javascript ,HTML and CSS 
 
