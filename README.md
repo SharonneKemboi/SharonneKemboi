@@ -8,8 +8,16 @@ An Upcoming full stack web developer . I love to learn and mentor others.
 I have an immense knowledge in data analytics ,Use of Power Bi and other analytics tools
 I'm currently learning Javascript ,HTML and CSS 
 
+- 📫 How to reach me: sharonnekay23@gmail.com
+
 ### Github Stats
- ![Github stats](https://github-readme-stats.vercel.app/api?username=SharonneKemboi&theme=highcontrast&show_icons=true&count_private=true)
+#
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SharonneKemboi&theme=tokyonight&&count_private=true&show_icons=true)   	|  ![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=SharonneKemboi&layout=compact&count_private=true&show_icons=true&langs_count=10&theme=tokyonight)  	|
+|---	|---	|
+#
+https://github-readme-stats.vercel.app/api?username=SharonneKemboi&theme=highcontrast&show_icons=true&count_private=true)
   
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SharonneKemboi&layout=compact)
