@@ -26,6 +26,8 @@ I'm currently learning Javascript ,HTML and CSS
   </a>
   <img src="https://komarev.com/ghpvc/?username=SharonneKemboi&style=flat-square&color=blue" alt=""/>
 </div>
+
+
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
