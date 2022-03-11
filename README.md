@@ -17,26 +17,6 @@ I'm currently learning Javascript ,HTML and CSS
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SharonneKemboi&theme=tokyonight&&count_private=true&show_icons=true)   	|  ![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=SharonneKemboi&layout=compact&count_private=true&show_icons=true&langs_count=10&theme=tokyonight)  	|
 |---	|---	|
 
-## name: gitartwork from a contribution graph
-        on: 
-          push:
-          schedule:
-            - cron: '* */24 * * *'
-        workflow_dispatch:
-        jobs:
-          build:
-            name: Make gitartwork SVG
-            runs-on: ubuntu-latest
-            steps:
-              - uses: actions/checkout@v2
-              - uses: sharonne/gitartwork@v1
-                with:
-                   # Use this username's contribution graph  
-                   user_name: Sharonne
-                   # Text on contribution graph 
-                   text: Sharonne
-              - uses: jasineri/simple-push-action@v1
-
 
 
 <div id="badges">
