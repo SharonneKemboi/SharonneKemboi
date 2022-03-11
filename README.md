@@ -17,7 +17,7 @@ I'm currently learning Javascript ,HTML and CSS
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SharonneKemboi&theme=tokyonight&&count_private=true&show_icons=true)   	|  ![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=SharonneKemboi&layout=compact&count_private=true&show_icons=true&langs_count=10&theme=tokyonight)  	|
 |---	|---	|
 
-name: gitartwork from a contribution graph
+## name: gitartwork from a contribution graph
         on: 
           push:
           schedule:
