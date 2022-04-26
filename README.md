@@ -142,22 +142,10 @@
 <p align="center">
  
   <code><img title="Javascript" height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-  <code><img title="Amazon Web Services" height="25" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://brandslogos.com/wp-content/uploads/images/angular-logo-vector-1.svg"></code>
-  <code><img title="Git" height="25" src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://www.pngfind.com/pngs/m/212-2129465_one-is-actually-a-png-the-other-is.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://kmyr.dev/posts/visual-studio.png"></code>
   <code><img title="JQuery" height="25" src="https://pngset.com/images/html-css-jquery-bootstrap-logo-word-text-symbol-alphabet-transparent-png-442273.png"></code>
   <code><img title="GitHub" height="25" src="https://www.kindpng.com/picc/m/141-1419051_github-icon-png-transparent-png.png"></code>
 </p>
 <hr>
-<div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="70" height="70"/>&nbsp;
-</div>
+
