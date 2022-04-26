@@ -32,17 +32,25 @@
   <br>
   🔬 I'm currently studying Software Development and Data Science in Moringa School and Azubi Africa Program
   <br>
+  <br>
   🎓 I graduated from Multimedia University Of Kenya with a Degree in Business Information Technology 
+  <br>
   <br>
   💻 I love to learn and mentor others
   <br>
+  <br>
   📚 I’m currently learning how to build different applications using Angular and Flask
   <br>
+   <br>
   💬 Ask me anything about from <a href="https://github.com/Sharonne-Kemboi/Sharonne-Kemboi/issues" title="Issues">Here</a>
   <br>
+   <br>
   📫 How to reach me: <a href="mailto: sharonnekay23@gmail.com">sharonnekay23@gmail.com</a>
 </p>                        
     
+   
+   <br> 
+   
 ## Skills and Competencies : (My Skills)
 <table>
 <tr>
