@@ -14,7 +14,7 @@
 <table>
 <tr>
   <td align='center'>
-       
+     Learning:  
     </td>
 </tr>
 <tr>
