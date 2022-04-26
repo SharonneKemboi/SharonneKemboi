@@ -112,7 +112,19 @@
 </tr>
 </table>
     
-  <code>
+
+                         
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/SharonneKemboi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SharonneKemboi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SharonneKemboi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+   <code>
     <a href="https://www.linkedin.com/in/sharonne-vanessa-kemboi-a118bb135//" title="LinkedIn Profile"><img width="24" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg"> LinkedIn</a></code>
   <code><a href="https://www.youtube.com/channel/UC1ERYdAvQ35dcXkYZm6Fu3w" title="Youtube Channel"><img width="24" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a></code>
   <code><a href="https://stackoverflow.com/users/18713497/sharonne-vanessa-kemboi" title="Stack Overflow Profile"><img width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stack_Overflow_logo.png/640px-Stack_Overflow_logo.png"> Stack Overflow</a></code>
@@ -141,20 +153,6 @@
   <code><img title="GitHub" height="25" src="https://www.kindpng.com/picc/m/141-1419051_github-icon-png-transparent-png.png"></code>
 </p>
 <hr>
-    
-
-
-                         
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/SharonneKemboi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SharonneKemboi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SharonneKemboi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
