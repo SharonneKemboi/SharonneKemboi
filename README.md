@@ -2,7 +2,7 @@
    
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharonnekemboi&style=for-the-badge&label="" alt="profile&views"/></p>
 
-    <h2>Hello ! I'M Sharonne Vanessa Kemboi
+      <h2>Hello ! I'M Sharonne Vanessa Kemboi</h2>
     
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
