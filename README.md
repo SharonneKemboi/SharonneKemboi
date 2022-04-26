@@ -1,7 +1,8 @@
 <div id="header" align="center">
- 
+   
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharonnekemboi&style=for-the-badge&label="" alt="profile&views"/></p>
 
+    <h2>Hello ! I'M Sharonne Vanessa Kemboi
     
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -126,11 +127,11 @@
 
    <code>
     <a href="https://www.linkedin.com/in/sharonne-vanessa-kemboi-a118bb135//" title="LinkedIn Profile"><img width="24" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg"> LinkedIn</a></code>
-  <code><a href="https://www.youtube.com/channel/UC1ERYdAvQ35dcXkYZm6Fu3w" title="Youtube Channel"><img width="24" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a></code>
+  <code><a href="https://www.youtube.com/channel/UC1ERYdAvQ35dcXkYZm6Fu3w" title="Youtube Channel"><img width="30" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a></code>
   <code><a href="https://stackoverflow.com/users/18713497/sharonne-vanessa-kemboi" title="Stack Overflow Profile"><img width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stack_Overflow_logo.png/640px-Stack_Overflow_logo.png"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/Sharonne_Vanessa_Kay/" title="Instagram Profile"><img width="24" src="https://mpng.subpng.com/20180508/jpq/kisspng-logo-computer-icons-clip-art-instagram-layout-5af1532e85e290.6197719415257649105484.jpg"> Instagram</a></code>
   <code><a href="https://twitter.com/sharonne_kemboi">
-    <img width="24" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img width="30" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a></code>
     </h5>
 <br>
