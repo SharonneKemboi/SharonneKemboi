@@ -27,7 +27,7 @@
 ```
     
  <p align="center">
-  Hi, I'm Sharonne (Vanessa) Kemboi, An Upcoming full stack web developer from Nairobi, Kenya
+  I'm a Data Analyst from Nairobi, Kenya
   <br>
   <br>
   🔬 I'm currently studying Software Development and Data Science in Moringa School and Azubi Africa Program
