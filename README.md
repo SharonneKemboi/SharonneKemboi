@@ -2,12 +2,45 @@
  
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharonnekemboi&style=for-the-badge&label="" alt="profile&views"/></p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola!+👋;This+is+Sharonne+Kemboi....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
     
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯    Eat. Code. Sleep . Repeat          @@
+@@   ❮(|~o.o~|)                                        @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Have A progressive Learning Attitude  @@
+@@     |_| |_|   Always Upskill                        @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+    
+ <p align="center">
+  Hi, I'm Sharonne (Vanessa) Kemboi, An Upcoming full stack web developer from Nairobi, Kenya
+  <br>
+  <br>
+  🔬 I'm currently studying Software Development and Data Science in Moringa School and Azubi Africa Program
+  <br>
+  🎓 I graduated from Multimedia University Of Kenya with a Degree in Business Information Technology 
+  <br>
+  💻 I love to learn and mentor others
+  <br>
+  📚 I’m currently learning how to build different applications using Angular and Flask
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Sharonne-Kemboi/Sharonne-Kemboi/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: sharonnekay23@gmail.com">sharonnekay23@gmail.com</a>
+</p>                        
     
 ## Skills and Competencies : (My Skills)
 <table>
@@ -78,41 +111,20 @@
 
 </tr>
 </table>
+    
   <code>
     <a href="https://www.linkedin.com/in/sharonne-vanessa-kemboi-a118bb135//" title="LinkedIn Profile"><img width="24" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg"> LinkedIn</a></code>
   <code><a href="https://www.youtube.com/channel/UC1ERYdAvQ35dcXkYZm6Fu3w" title="Youtube Channel"><img width="24" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a></code>
   <code><a href="https://stackoverflow.com/users/18713497/sharonne-vanessa-kemboi" title="Stack Overflow Profile"><img width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stack_Overflow_logo.png/640px-Stack_Overflow_logo.png"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/Sharonne_Vanessa_Kay/" title="Instagram Profile"><img width="24" src="https://mpng.subpng.com/20180508/jpq/kisspng-logo-computer-icons-clip-art-instagram-layout-5af1532e85e290.6197719415257649105484.jpg"> Instagram</a></code>
-
   <code><a href="https://twitter.com/sharonne_kemboi">
-    <img width="16" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img width="24" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a></code>
     </h5>
 <br>
     
     
-  <img src="https://media1.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif?cid=ecf05e4779iar1zprdn9x5enc53j3d9cort9qs30gajx67er&rid=giphy.gif&ct=s" width="300"/>
-</div>
-
-    
- <p align="center">
-  Hi, I'm Sharonne (Vanessa) Kemboi, An Upcoming full stack web developer from Nairobi, Kenya
-  <br>
-  <br>
-  🔬 I'm currently studying Software Development and Data Science in Moringa School and Azubi Africa Program
-  <br>
-  🎓 I graduated from Multimedia University Of Kenya with a Degree in Business Information Technology 
-  <br>
-  💻 I love to learn and mentor others
-  <br>
-  📚 I’m currently learning how to build different applications using Angular and Flask
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/Sharonne-Kemboi/Sharonne-Kemboi/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: sharonnekay23@gmail.com">sharonnekay23@gmail.com</a>
-</p>
-    
-    
+ 
 <h2 align="center"🔥 Languages & Frameworks & Tools & Abilities 🔥></h2>
 <br>
 <p align="center">
@@ -130,28 +142,7 @@
 </p>
 <hr>
     
-    
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯    Eat. Code. Sleep . Repeat          @@
-@@   ❮(|~o.o~|)                                        @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Have A progressive Learning Attitude  @@
-@@     |_| |_|   Always Upskill                        @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+
 
                          
 ### ⚙️ &nbsp;GitHub Analytics
