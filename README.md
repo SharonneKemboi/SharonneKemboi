@@ -30,7 +30,7 @@
   I'm a Data Analyst from Nairobi, Kenya
   <br>
   <br>
-  🔬 I'm currently studying Software Development and Data Science in Moringa School and Azubi Africa Program
+  🔬 I'm currently studying Software Development,CyberSecurity, Solution Architecture and Data Science in Moringa School, Microsoft GOL, AWS-SheBuilds and Azubi Africa Program respectively
   <br>
   <br>
   🎓 I graduated from Multimedia University Of Kenya with a Degree in Business Information Technology 
@@ -39,10 +39,10 @@
   💻 I love to learn and mentor others
   <br>
   <br>
-  📚 I’m currently learning how to build different applications using Angular and Flask
+  📚 I’m currently learning how to build different applications using Django
   <br>
    <br>
-  💬 Ask me anything about from <a href="https://github.com/Sharonne-Kemboi/Sharonne-Kemboi/issues" title="Issues">Here</a>
+  💬 Ask me anything about Data from  <a href="https://github.com/Sharonne-Kemboi/Sharonne-Kemboi/issues" title="Issues">Here</a>
   <br>
    <br>
   📫 How to reach me: <a href="mailto: sharonnekay23@gmail.com">sharonnekay23@gmail.com</a>
