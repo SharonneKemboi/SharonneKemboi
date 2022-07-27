@@ -27,7 +27,7 @@
 ```
     
  <p align="center">
-  I'm a Data Analyst from Nairobi, Kenya
+  I'm a Data Analyst/Software Engineer from Nairobi, Kenya
   
 
   <br>
