@@ -9,7 +9,7 @@
 <p align="center">
   💻 Data Scientist from Nairobi, Kenya<br><br>
   🎓 Graduate of <b>Multimedia University of Kenya</b> with a Degree in <b>Business Information Technology</b><br><br>
-  🌱 Passionate about Data, AI, and leveraging technology to drive insights and impact.<br><br>
+      Passionate about Data, AI, and leveraging technology to drive insights and impact.<br><br>
   💬 I love learning, mentoring, and exploring new data and machine learning tools.<br><br>
   📚 Currently deepening my knowledge in <b>Machine Learning Model Training</b>.<br><br>
   📫 Reach me via: <a href="mailto:sharonnekay23@gmail.com">sharonnekay23@gmail.com</a><br><br>
