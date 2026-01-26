@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hello! I'm Sharonne Vanessa Kemboi</h1>
 
 <p align="center">
-  💻 Data Analyst & Software Engineer from Nairobi, Kenya<br><br>
+  💻 Data Scientist from Nairobi, Kenya<br><br>
   🎓 Graduate of <b>Multimedia University of Kenya</b> with a Degree in <b>Business Information Technology</b><br><br>
   🌱 Passionate about Data, AI, and leveraging technology to drive insights and impact.<br><br>
   💬 I love learning, mentoring, and exploring new data and machine learning tools.<br><br>
